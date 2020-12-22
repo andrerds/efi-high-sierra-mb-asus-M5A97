@@ -1,0 +1,1 @@
+# efi-high-sierra-mb-asus-M5A97
